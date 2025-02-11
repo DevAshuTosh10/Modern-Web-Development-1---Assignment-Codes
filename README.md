@@ -1,1 +1,1 @@
-HTML/CSS/Php/Sql Pratice
+HTML/CSS/Php/Sql Practice
